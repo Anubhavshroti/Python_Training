@@ -1,0 +1,26 @@
+[2023-09-09 21:51:29] Executing bootstrap tasks
+[2023-09-09 21:51:29] OpenJDK Runtime Environment 17.0.7+7
+[2023-09-09 21:51:29] Product org.eclipse.products.epp.package.java.2023-06
+[2023-09-09 21:51:29] Bundle org.eclipse.oomph.setup 1.26.0.v20230416-0656, build=5945, branch=c5558820f367665758d4d719b7553a02ff4954e0
+[2023-09-09 21:51:29] Bundle org.eclipse.oomph.setup.core 1.27.0.v20230402-0730, build=5945, branch=c5558820f367665758d4d719b7553a02ff4954e0
+[2023-09-09 21:51:29] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20230416-1150, build=5945, branch=c5558820f367665758d4d719b7553a02ff4954e0
+[2023-09-09 21:51:29] Performing P2 Director (Eclipse IDE for Java Developers (2023-06))
+[2023-09-09 21:51:29] Offline = false
+[2023-09-09 21:51:29] Mirrors = true
+[2023-09-09 21:51:29] Resolving 26 requirements from 3 repositories to C:\Users\eluri\eclipse\java-2023-06\eclipse
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:epp.package.java [4.28.0,5.0.0) (filter=(|(&(osgi.arch=aarch64)(osgi.os=linux)(osgi.ws=gtk))(&(osgi.arch=aarch64)(osgi.os=macosx)(osgi.ws=cocoa))(&(osgi.arch=x86_64)(osgi.os=linux)(osgi.ws=gtk))(&(osgi.arch=x86_64)(osgi.os=macosx)(osgi.ws=cocoa))(&(osgi.arch=x86_64)(osgi.os=win32)(osgi.ws=win32))))
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.platform.feature.group [4.28.0,5.0.0)
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.rcp.feature.group [4.28.0,5.0.0)
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.buildship.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.eclemma.feature.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.egit.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.epp.mpc.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.bcoview.feature.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jgit.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.feature.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.lemminx.feature.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.logback.feature.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.commons.activity.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.egit.feature.feature.group
+[2023-09-09 21:51:29] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.git.feature.group
