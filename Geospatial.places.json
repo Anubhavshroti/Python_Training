@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "65155597be7ca93968951c14"
+  },
+  "name": "India",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      22.243560814153753,
+      84.8109429557567
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65155597be7ca93968951c15"
+  },
+  "name": "China",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      31.406147551419014,
+      85.78667790699605
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65155597be7ca93968951c16"
+  },
+  "name": "USA",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -0.1268194,
+      51.5007292
+    ]
+  }
+}]
